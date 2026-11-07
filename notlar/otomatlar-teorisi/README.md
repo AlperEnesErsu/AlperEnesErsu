@@ -2,11 +2,15 @@
 
 Sınav haftası boyunca tuttuğum özet notlar ve çözümlü sorular.
 
-| Gün | Konu | Dosya |
-| --- | --- | --- |
-| 1 | DFA ve NFA, alt küme yapısı | [01-sonlu-otomatlar.md](01-sonlu-otomatlar.md) |
-| 2 | Düzenli diller, kapanış, düzenli ifadeler | [02-duzenli-diller.md](02-duzenli-diller.md) |
-| 3 | Pompalama önsavı ve genel tekrar | [03-pompalama-ve-tekrar.md](03-pompalama-ve-tekrar.md) |
+| Dosya | Konu |
+| --- | --- |
+| [00-terim-sozlugu.md](00-terim-sozlugu.md) | Türkçe – İngilizce terim sözlüğü |
+| [01-sonlu-otomatlar.md](01-sonlu-otomatlar.md) | DFA ve NFA, alt küme yapısı |
+| [02-duzenli-diller.md](02-duzenli-diller.md) | Düzenli diller, kapanış, düzenli ifadeler |
+| [03-pompalama-ve-tekrar.md](03-pompalama-ve-tekrar.md) | Pompalama önsavı ve genel tekrar |
+| [04-dfa-kucultme.md](04-dfa-kucultme.md) | DFA küçültme |
+| [05-donusum-ornekleri.md](05-donusum-ornekleri.md) | NFA → DFA, DFA → ifade, ifade → NFA adım adım |
+| [06-deneme-sinavi.md](06-deneme-sinavi.md) | Cevaplı deneme sınavı |
 
 ## Nasıl çalıştım
 
